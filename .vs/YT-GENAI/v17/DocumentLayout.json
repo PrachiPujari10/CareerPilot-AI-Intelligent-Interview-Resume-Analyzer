@@ -1,0 +1,646 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\YT-GENAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\auth.context.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\app.routes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\app.routes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\style\\button.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\style\\button.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\interview.context.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\interview\\interview.context.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\style\\interview.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\interview\\style\\interview.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\style\\home.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\interview\\style\\home.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\services\\interview.api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\interview\\services\\interview.api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\pages\\Interview.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\interview\\pages\\Interview.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\interview\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\hooks\\useInterview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\interview\\hooks\\useInterview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\auth.form.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\auth\\auth.form.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\auth.context.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\auth\\auth.context.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\services\\auth.api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\auth\\services\\auth.api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\auth\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\auth\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\hooks\\useAuth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\auth\\hooks\\useAuth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\components\\Protected.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\src\\features\\auth\\components\\Protected.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\services\\temp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\services\\temp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\services\\ai.service.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\services\\ai.service.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\routes\\interview.routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\routes\\interview.routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\routes\\auth.routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\routes\\auth.routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\models\\user.model.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\models\\user.model.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\models\\interviewReport.model.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\models\\interviewReport.model.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\models\\blacklist.model.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\models\\blacklist.model.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\middlewares\\file.middleware.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\middlewares\\file.middleware.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\middlewares\\auth.middleware.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\middlewares\\auth.middleware.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\controllers\\interview.controller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\controllers\\interview.controller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\controllers\\auth.controller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\controllers\\auth.controller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\YT-GENAI\\Backend\\src\\config\\database.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\config\\database.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\package.json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\package.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\package.json",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\package.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-18T15:44:37.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\pages\\Register.jsx",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\pages\\Register.jsx",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\pages\\Register.jsx",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\pages\\Register.jsx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:43:47.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auth.context.jsx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\auth.context.jsx",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\auth.context.jsx",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\auth.context.jsx",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\Downloads\\YT-GENAI-fixed (1)\\Frontend\\src\\features\\auth\\auth.context.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:43:00.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\index.html",
+              "RelativeDocumentMoniker": "Frontend\\index.html",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\index.html",
+              "RelativeToolTip": "Frontend\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-07-18T15:30:05.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.scss",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\style.scss",
+              "RelativeDocumentMoniker": "Frontend\\src\\style.scss",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\style.scss",
+              "RelativeToolTip": "Frontend\\src\\style.scss",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-07-18T15:29:47.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\main.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\main.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\main.jsx",
+              "RelativeToolTip": "Frontend\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:29:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.routes.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\app.routes.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\app.routes.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\app.routes.jsx",
+              "RelativeToolTip": "Frontend\\src\\app.routes.jsx",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:29:10.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\App.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\App.jsx",
+              "RelativeToolTip": "Frontend\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:28:55.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "button.scss",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\style\\button.scss",
+              "RelativeDocumentMoniker": "Frontend\\src\\style\\button.scss",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\style\\button.scss",
+              "RelativeToolTip": "Frontend\\src\\style\\button.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-07-18T15:28:38.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "interview.context.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\interview.context.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\interview\\interview.context.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\interview.context.jsx",
+              "RelativeToolTip": "Frontend\\src\\features\\interview\\interview.context.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:28:25.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "interview.scss",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\style\\interview.scss",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\interview\\style\\interview.scss",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\style\\interview.scss",
+              "RelativeToolTip": "Frontend\\src\\features\\interview\\style\\interview.scss",
+              "ViewState": "AgIAAMoBAAAAAAAAAAAAwN0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-07-18T15:28:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "home.scss",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\style\\home.scss",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\interview\\style\\home.scss",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\style\\home.scss",
+              "RelativeToolTip": "Frontend\\src\\features\\interview\\style\\home.scss",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAAwHQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-07-18T15:27:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "interview.api.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\services\\interview.api.js",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\interview\\services\\interview.api.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\services\\interview.api.js",
+              "RelativeToolTip": "Frontend\\src\\features\\interview\\services\\interview.api.js",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:27:23.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Interview.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\pages\\Interview.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\interview\\pages\\Interview.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\pages\\Interview.jsx",
+              "RelativeToolTip": "Frontend\\src\\features\\interview\\pages\\Interview.jsx",
+              "ViewState": "AgIAALAAAAAAAAAAAAAiwMIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:27:05.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\pages\\Home.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\interview\\pages\\Home.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\pages\\Home.jsx",
+              "RelativeToolTip": "Frontend\\src\\features\\interview\\pages\\Home.jsx",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAcwJYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:26:46.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "useInterview.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\hooks\\useInterview.js",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\interview\\hooks\\useInterview.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\interview\\hooks\\useInterview.js",
+              "RelativeToolTip": "Frontend\\src\\features\\interview\\hooks\\useInterview.js",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:26:21.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "auth.form.scss",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\auth.form.scss",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\auth\\auth.form.scss",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\auth.form.scss",
+              "RelativeToolTip": "Frontend\\src\\features\\auth\\auth.form.scss",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-07-18T15:26:01.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "auth.api.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\services\\auth.api.js",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\auth\\services\\auth.api.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\services\\auth.api.js",
+              "RelativeToolTip": "Frontend\\src\\features\\auth\\services\\auth.api.js",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:24:56.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "auth.context.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\auth.context.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\auth\\auth.context.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\auth.context.jsx",
+              "RelativeToolTip": "Frontend\\src\\features\\auth\\auth.context.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:24:54.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\pages\\Register.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\auth\\pages\\Register.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\pages\\Register.jsx",
+              "RelativeToolTip": "Frontend\\src\\features\\auth\\pages\\Register.jsx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:24:35.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\pages\\Login.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\auth\\pages\\Login.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\pages\\Login.jsx",
+              "RelativeToolTip": "Frontend\\src\\features\\auth\\pages\\Login.jsx",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:24:19.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "useAuth.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\hooks\\useAuth.js",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\auth\\hooks\\useAuth.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\hooks\\useAuth.js",
+              "RelativeToolTip": "Frontend\\src\\features\\auth\\hooks\\useAuth.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwDwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:24:02.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Protected.jsx",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\components\\Protected.jsx",
+              "RelativeDocumentMoniker": "Frontend\\src\\features\\auth\\components\\Protected.jsx",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Frontend\\src\\features\\auth\\components\\Protected.jsx",
+              "RelativeToolTip": "Frontend\\src\\features\\auth\\components\\Protected.jsx",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-07-18T15:23:44.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\server.js",
+              "RelativeDocumentMoniker": "Backend\\server.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\server.js",
+              "RelativeToolTip": "Backend\\server.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:21:54.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\app.js",
+              "RelativeDocumentMoniker": "Backend\\src\\app.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\app.js",
+              "RelativeToolTip": "Backend\\src\\app.js",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:21:20.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "temp.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\services\\temp.js",
+              "RelativeDocumentMoniker": "Backend\\src\\services\\temp.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\services\\temp.js",
+              "RelativeToolTip": "Backend\\src\\services\\temp.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:21:05.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ai.service.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\services\\ai.service.js",
+              "RelativeDocumentMoniker": "Backend\\src\\services\\ai.service.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\services\\ai.service.js",
+              "RelativeToolTip": "Backend\\src\\services\\ai.service.js",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwHMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:20:45.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "interview.routes.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\routes\\interview.routes.js",
+              "RelativeDocumentMoniker": "Backend\\src\\routes\\interview.routes.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\routes\\interview.routes.js",
+              "RelativeToolTip": "Backend\\src\\routes\\interview.routes.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:20:25.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "auth.routes.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\routes\\auth.routes.js",
+              "RelativeDocumentMoniker": "Backend\\src\\routes\\auth.routes.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\routes\\auth.routes.js",
+              "RelativeToolTip": "Backend\\src\\routes\\auth.routes.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:20:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "user.model.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\models\\user.model.js",
+              "RelativeDocumentMoniker": "Backend\\src\\models\\user.model.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\models\\user.model.js",
+              "RelativeToolTip": "Backend\\src\\models\\user.model.js",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:19:50.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "interviewReport.model.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\models\\interviewReport.model.js",
+              "RelativeDocumentMoniker": "Backend\\src\\models\\interviewReport.model.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\models\\interviewReport.model.js",
+              "RelativeToolTip": "Backend\\src\\models\\interviewReport.model.js",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:19:30.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "blacklist.model.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\models\\blacklist.model.js",
+              "RelativeDocumentMoniker": "Backend\\src\\models\\blacklist.model.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\models\\blacklist.model.js",
+              "RelativeToolTip": "Backend\\src\\models\\blacklist.model.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:19:12.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "file.middleware.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\middlewares\\file.middleware.js",
+              "RelativeDocumentMoniker": "Backend\\src\\middlewares\\file.middleware.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\middlewares\\file.middleware.js",
+              "RelativeToolTip": "Backend\\src\\middlewares\\file.middleware.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:18:49.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "auth.middleware.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\middlewares\\auth.middleware.js",
+              "RelativeDocumentMoniker": "Backend\\src\\middlewares\\auth.middleware.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\middlewares\\auth.middleware.js",
+              "RelativeToolTip": "Backend\\src\\middlewares\\auth.middleware.js",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:18:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "interview.controller.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\controllers\\interview.controller.js",
+              "RelativeDocumentMoniker": "Backend\\src\\controllers\\interview.controller.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\controllers\\interview.controller.js",
+              "RelativeToolTip": "Backend\\src\\controllers\\interview.controller.js",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwGEAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:18:00.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "auth.controller.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\controllers\\auth.controller.js",
+              "RelativeDocumentMoniker": "Backend\\src\\controllers\\auth.controller.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\controllers\\auth.controller.js",
+              "RelativeToolTip": "Backend\\src\\controllers\\auth.controller.js",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:17:40.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "database.js",
+              "DocumentMoniker": "C:\\Projects\\YT-GENAI\\Backend\\src\\config\\database.js",
+              "RelativeDocumentMoniker": "Backend\\src\\config\\database.js",
+              "ToolTip": "C:\\Projects\\YT-GENAI\\Backend\\src\\config\\database.js",
+              "RelativeToolTip": "Backend\\src\\config\\database.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-18T15:17:03.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
